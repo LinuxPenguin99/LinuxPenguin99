@@ -26,6 +26,7 @@
 	[![Jenkins Badge](https://img.shields.io/badge/Jenkins-fb543f?style=flat-square&logo=jenkins&logoColor=white&link=https://www.jenkins.io/)](https://www.jenkins.io/)
 	[![Apache Flink Badge](https://img.shields.io/badge/Apache_Flink-faf60d?style=flat-square&logo=apacheflink&logoColor=black&link=https://flink.apache.org/)](https://flink.apache.org/)
  [![Apache Spark Badge](https://img.shields.io/badge/Apache_Spark-faf60d?style=flat-square&logo=apachespark&logoColor=black&link=https://spark.apache.org/)](https://spark.apache.org/)
+ [![Flask Badge](https://img.shields.io/badge/Flask-FFFFFF?style=flat-square&logo=flask&logoColor=black&link=https://flask.org/)](https://flask.org/)
 	<br>
  [![C Badge](https://img.shields.io/badge/C-3776AB?style=flat-square&logo=c&logoColor=white&link=https://github.com/LinuxPenguin99)](https://github.com/LinuxPenguin99)
  [![C++ Badge](https://img.shields.io/badge/C++-3776AB?style=flat-square&logo=C%2B%2B&logoColor=white&link=https://github.com/cplusplus)](https://github.com/cplusplus)
