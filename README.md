@@ -34,6 +34,8 @@
  [![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=yellow&link=https://www.python.org/)](https://www.python.org/)
  [![PyPI Badge](https://img.shields.io/badge/PyPI-3776AB?style=flat-square&logo=PyPI&logoColor=yellow&link=https://pypi.org/)](https://pypi.org/)
  [![Numpy Badge](https://img.shields.io/badge/Numpy-3776AB?style=flat-square&logo=numpy&logoColor=yellow&link=https://numpy.org/)](https://numpy.org/)
+ [![Scipy Badge](https://img.shields.io/badge/Scipy-3776AB?style=flat-square&logo=scipy&logoColor=yellow&link=https://scipy.org)](https://scipy.org)
+ [![Scikit-learn Badge](https://img.shields.io/badge/scikit_learn-3776AB?style=flat-square&logo=scikitlearn&logoColor=yellow&link=https://scikit-learn.org)](https://scikit-learn.org/)
  [![Tensorflow Badge](https://img.shields.io/badge/Tensorflow-faf9f9?style=flat-square&logo=tensorflow&logoColor=orange&link=https://www.tensorflow.org/)](https://www.tensorflow.org/)
  [![Keras Badge](https://img.shields.io/badge/Keras-faf9f9?style=flat-square&logo=keras&logoColor=red&link=https://keras.io/)](https://keras.io/)
  [![PyTorch Badge](https://img.shields.io/badge/PyTorch-faf9f9?style=flat-square&logo=PyTorch&logoColor=red&link=https://pytorch.org/)](https://pytorch.org/)
